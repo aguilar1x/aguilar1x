@@ -2,9 +2,11 @@
 
  # **Hi there! I'm Matias Aguilar 👋**
 
-- 🌱 Web3 and Blockchain enthusiast
-- 🌐 Open-source contributor
-- 💻 I have 1 year of experience in Backend and a little in Frontend
+- 🌱 Web3 and Blockchain enthusiast.
+- 🌐 Open-source contributor.
+- 💻 I have 1 year of experience in Backend and a little in Frontend.
+- 📁 Learning Contratcts in Cairo and Stellar Ecosystems.
+- 🏗️ Maintainer in RevolutionaryFarmers and StarShop.
 
 ---
 
