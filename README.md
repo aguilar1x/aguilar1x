@@ -5,7 +5,7 @@
 - 🌱 Web3 and Blockchain enthusiast.
 - 🌐 Open-source contributor.
 - 💻 I have 1 year of experience in Backend and a little in Frontend.
-- 📁 Learning Contratcts in Cairo and Stellar Ecosystems.
+- 📁 Learning Smart Contratcts in Cairo and Rust.
 - 🏗️ Maintainer in RevolutionaryFarmers and StarShop.
 
 ---
