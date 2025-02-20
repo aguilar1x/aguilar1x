@@ -6,7 +6,7 @@
 - 🌐 Open-source contributor.
 - 💻 I have 1 year of experience in Backend and a little in Frontend.
 - 📁 Learning Smart Contratcts in Cairo and Rust.
-- 🏗️ Maintainer in RevolutionaryFarmers and StarShop.
+- 🏗️ Maintainer in RevolutionaryFarmers, StarShop, Scaffold Rust.
 
 ---
 
