@@ -4,7 +4,7 @@
 
 - 🌱 Web3 and Blockchain enthusiast.
 - 🌐 Open-source contributor.
-- 💻 I have 1 year of experience in Backend and a little in Frontend.
+- 💻 I have 1.5 year of experience in Backend and a little in Frontend.
 - 📁 Learning Smart Contratcts in Cairo and Rust.
 - 🏗️ Maintainer in RevolutionaryFarmers, StarShop and Scaffold Rust.
 
