@@ -12,7 +12,7 @@
 
 ## 🚀 Tech Stack
 <div>
-  <img src=https://go-skill-icons.vercel.app/api/icons?i=cairo,py,java,rust,git,npm,javascript,bun,sql,mysql,/>
+  <img src=https://go-skill-icons.vercel.app/api/icons?i=cairo,py,java,rust,git,npm,javascript,bun,mysql,/>
 </div>
 <br><br/>
 
