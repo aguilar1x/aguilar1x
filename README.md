@@ -4,7 +4,7 @@
 
 - 🌱 Web3 and Blockchain enthusiast.
 - 🌐 Open-source contributor.
-- 💻 I have 2.5 year of experience in Backend and Frontend.
+- 💻 I have 3 year of experience in Backend and Frontend.
 - 📁 Learning Smart Contratcts in Cairo and Rust.
 - 🏗️ Founder of Numo
 
