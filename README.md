@@ -7,6 +7,7 @@
 - 💻 I have 3 year of experience in Backend and Frontend.
 - 📁 Learning Smart Contratcts in Cairo and Rust.
 - 🏗️ Founder of Numo
+- 🌏 CO-Founder of OppiaLabs
 
 ---
 
