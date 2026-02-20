@@ -2,7 +2,7 @@
 
  # **Hi there! I'm Matias Aguilar 👋**
 
-- 🌱 Web3 and Blockchain enthusiast.
+- 🌱 Blockchain enthusiast.
 - 🌐 Open-source contributor.
 - 💻 I have 3 year of experience in Backend and Frontend.
 - 📁 Learning Smart Contratcts in Cairo and Rust.
