@@ -1,11 +1,11 @@
 # **Hi there! I'm Matias Aguilar 👋**
 
-- 🌱 Blockchain enthusiast.
+- 🌱 Blockchain and AI enthusiast.
 - 🌐 Open-source contributor.
-- 💻 I have 3 year of experience in Backend and Frontend.
-- 📁 Learning Smart Contratcts in Cairo and Rust.
-- 🏗️ Founder of Numo
-- 🌏 CO-Founder of OppiaLabs
+- 💻 3+ years shipping production-ready backend & frontend systems.
+- 📁 Building with Rust (Soroban)
+- 🏗️ Founder of Neko & Numo. 
+- 🌏 Co-Founder of Oppia Labs.
 
 ---
 
