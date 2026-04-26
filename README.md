@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Tech Stack
+# 🚀 Tech Stack
 
 ## <div align="left">Languages</div>
 <div align="center">
@@ -38,7 +38,7 @@
 
 ---
 
-## 📊 Stats
+# 📊 Stats
 <div align="center">
   <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=aguilar1x&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguilar1x&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
