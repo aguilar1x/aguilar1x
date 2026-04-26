@@ -12,10 +12,31 @@
 ---
 
 ## 🚀 Tech Stack
-<div>
-  <img src=https://go-skill-icons.vercel.app/api/icons?i=cairo,py,java,rust,git,npm,javascript,typescript,bun,mysql,php,sqlalchemy,graphql,postgresql,fastapi,docker,react,nextjs,css,html,nodejs,express,nestjs,/>
+
+## <div align="left">Languages</div>
+<div align="center">
+  <img height="50rem" src="https://go-skill-icons.vercel.app/api/icons?i=cairo,rust,python,javascript,typescript,java,php"/>
 </div>
-<br><br/>
+ 
+## <div align="left">Frontend</div>
+<div align="center">
+  <img height="50rem" src="https://go-skill-icons.vercel.app/api/icons?i=react,nextjs,svelte,html,css,tailwind"/>
+</div>
+ 
+## <div align="left">Backend</div>
+<div align="center">
+  <img height="50rem" src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,express,nestjs,fastapi"/>
+</div>
+ 
+## <div align="left">Databases</div>
+<div align="center">
+  <img height="50rem" src="https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,graphql,sqlalchemy"/>
+</div>
+ 
+## <div align="left">Tools & Platforms</div>
+<div align="center">
+  <img height="50rem" src="https://go-skill-icons.vercel.app/api/icons?i=docker,git,github,figma,vercel,npm,bun,githubactions,swagger,postman"/>
+</div>
 
 ---
 
