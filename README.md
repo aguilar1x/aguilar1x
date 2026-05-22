@@ -40,11 +40,16 @@
 
 # 📊 Stats
 <div align="center">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=aguilar1x&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aguilar1x&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aguilar1x&theme=github_dark"/>
 </div>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aguilar1x&theme=vue-dark&hide_border=true"/>
+  <img height="180rem" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aguilar1x&theme=github_dark"/>
+  <img height="180rem" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aguilar1x&theme=github_dark"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=aguilar1x&theme=vue-dark&hide_border=true"/>
 </div>
 
 ---
