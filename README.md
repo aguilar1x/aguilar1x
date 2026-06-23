@@ -1,12 +1,23 @@
-# **Hi there! I'm Matias Aguilar 👋**
+<div align="center">
 
-- 🌱 Blockchain and AI enthusiast.
+# Matias Aguilar
+
+### Software Engineer • Founder • Web3 Builder
+
+Building financial infrastructure, AI-powered systems, and open-source software.
+
+</div>
+
+---
+
+- 🌱 Software Engineer focused on AI, blockchain, and developer infrastructure.
 - 🌐 Open-source contributor.
-- 💻 3+ years shipping production-ready backend & frontend systems.
-- 📁 Building with Rust (Soroban)
-- 🏆 X5 Hackathon Winner.
-- 🏗️ Founder of Neko & Numo. 
-- 🌏 Co-Founder of Oppia Labs.
+- 💻 3+ years building production-ready products across frontend, backend, and smart contracts.
+- 🦀 Building with Rust (Soroban) and modern web technologies.
+- 🏆 X5 Hackathon Winner across Stellar, Ethereum, Starknet, and Web3 ecosystems.
+- 🚀 Founder of Numo and Co-Founder of Neko.
+- 🏗️ Co-Founder of Oppia Labs, a Web2 & Web3 venture studio.
+- 📚 Constantly learning, researching, and exploring how complex systems work under the hood.
 
 ---
 
