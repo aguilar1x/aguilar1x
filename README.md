@@ -4,6 +4,7 @@
 - 🌐 Open-source contributor.
 - 💻 3+ years shipping production-ready backend & frontend systems.
 - 📁 Building with Rust (Soroban)
+- 🏆 X5 Hackathon Winner.
 - 🏗️ Founder of Neko & Numo. 
 - 🌏 Co-Founder of Oppia Labs.
 
