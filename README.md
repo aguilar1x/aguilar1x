@@ -21,7 +21,7 @@ Building financial infrastructure, AI-powered systems, and open-source software.
 
 ---
 
-# 🚀 Tech Stack
+## 🏗️ Tech Stack
 
 ## <div align="left">Languages</div>
 <div align="center">
@@ -50,7 +50,7 @@ Building financial infrastructure, AI-powered systems, and open-source software.
 
 ---
 
-# 📊 Stats
+## 📊 Stats
 <div align="center">
   <img height="180rem" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aguilar1x&theme=github_dark"/>
 </div>
